@@ -1,0 +1,6 @@
+framework module Pods_Hindi365 {
+  umbrella header "Pods-Hindi365-umbrella.h"
+
+  export *
+  module * { export * }
+}

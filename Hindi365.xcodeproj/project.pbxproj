@@ -8,20 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		2B26ABB21F20F1500020A64E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B26ABB11F20F1500020A64E /* AppDelegate.swift */; };
-		2B26ABB41F20F1500020A64E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B26ABB31F20F1500020A64E /* ViewController.swift */; };
+		2B26ABB41F20F1500020A64E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B26ABB31F20F1500020A64E /* HomeViewController.swift */; };
 		2B26ABB71F20F1500020A64E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B26ABB51F20F1500020A64E /* Main.storyboard */; };
 		2B26ABB91F20F1500020A64E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B26ABB81F20F1500020A64E /* Assets.xcassets */; };
 		2B26ABBC1F20F1500020A64E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B26ABBA1F20F1500020A64E /* LaunchScreen.storyboard */; };
+		2B5482FF1F3373BF0047A6C5 /* Hindi365.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2B5482FE1F3373BF0047A6C5 /* Hindi365.plist */; };
+		2B5483021F33A2750047A6C5 /* Info.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B5483001F33A2750047A6C5 /* Info.storyboard */; };
+		2B590B8F1F2BA804009D1245 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B590B8E1F2BA804009D1245 /* Card.swift */; };
+		2B6C84821F2A53F3007209CE /* HelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6C84811F2A53F1007209CE /* HelpViewController.swift */; };
+		2B6C84841F2A6473007209CE /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6C84831F2A6473007209CE /* StarViewController.swift */; };
+		2B6C84861F2A651B007209CE /* StarCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6C84851F2A651B007209CE /* StarCardViewController.swift */; };
+		6CAB09371F70A9AAD2748C70 /* Pods_Hindi365.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE5262B80CDFC6692FE0FA5B /* Pods_Hindi365.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2B26ABAE1F20F1500020A64E /* Hindi365.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hindi365.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B26ABB11F20F1500020A64E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2B26ABB31F20F1500020A64E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2B26ABB31F20F1500020A64E /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		2B26ABB61F20F1500020A64E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2B26ABB81F20F1500020A64E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B26ABBB1F20F1500020A64E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B26ABBD1F20F1500020A64E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B5482FE1F3373BF0047A6C5 /* Hindi365.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Hindi365.plist; sourceTree = "<group>"; };
+		2B5483011F33A2750047A6C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Info.storyboard; sourceTree = "<group>"; };
+		2B590B8E1F2BA804009D1245 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		2B6C84811F2A53F1007209CE /* HelpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelpViewController.swift; sourceTree = "<group>"; };
+		2B6C84831F2A6473007209CE /* StarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarViewController.swift; sourceTree = "<group>"; };
+		2B6C84851F2A651B007209CE /* StarCardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarCardViewController.swift; sourceTree = "<group>"; };
+		D4F7C9AC46DD2A8A71EDA454 /* Pods-Hindi365.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hindi365.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Hindi365/Pods-Hindi365.debug.xcconfig"; sourceTree = "<group>"; };
+		F5156CCB0583CEB7EB127523 /* Pods-Hindi365.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Hindi365.release.xcconfig"; path = "Pods/Target Support Files/Pods-Hindi365/Pods-Hindi365.release.xcconfig"; sourceTree = "<group>"; };
+		FE5262B80CDFC6692FE0FA5B /* Pods_Hindi365.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Hindi365.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CAB09371F70A9AAD2748C70 /* Pods_Hindi365.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +57,8 @@
 			children = (
 				2B26ABB01F20F1500020A64E /* Hindi365 */,
 				2B26ABAF1F20F1500020A64E /* Products */,
+				B2C99B9D6FFBAD63B3706E91 /* Pods */,
+				4BF8653F95C5A58C9CAC3C2C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +74,52 @@
 			isa = PBXGroup;
 			children = (
 				2B26ABB11F20F1500020A64E /* AppDelegate.swift */,
-				2B26ABB31F20F1500020A64E /* ViewController.swift */,
-				2B26ABB51F20F1500020A64E /* Main.storyboard */,
+				2B5483041F33A2F00047A6C5 /* ViewControllers */,
+				2B5483031F33A2D00047A6C5 /* Storyboard */,
+				2B590B8E1F2BA804009D1245 /* Card.swift */,
 				2B26ABB81F20F1500020A64E /* Assets.xcassets */,
 				2B26ABBA1F20F1500020A64E /* LaunchScreen.storyboard */,
+				2B5482FE1F3373BF0047A6C5 /* Hindi365.plist */,
 				2B26ABBD1F20F1500020A64E /* Info.plist */,
 			);
 			path = Hindi365;
+			sourceTree = "<group>";
+		};
+		2B5483031F33A2D00047A6C5 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				2B26ABB51F20F1500020A64E /* Main.storyboard */,
+				2B5483001F33A2750047A6C5 /* Info.storyboard */,
+			);
+			name = Storyboard;
+			sourceTree = "<group>";
+		};
+		2B5483041F33A2F00047A6C5 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				2B26ABB31F20F1500020A64E /* HomeViewController.swift */,
+				2B6C84851F2A651B007209CE /* StarCardViewController.swift */,
+				2B6C84831F2A6473007209CE /* StarViewController.swift */,
+				2B6C84811F2A53F1007209CE /* HelpViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		4BF8653F95C5A58C9CAC3C2C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FE5262B80CDFC6692FE0FA5B /* Pods_Hindi365.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B2C99B9D6FFBAD63B3706E91 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D4F7C9AC46DD2A8A71EDA454 /* Pods-Hindi365.debug.xcconfig */,
+				F5156CCB0583CEB7EB127523 /* Pods-Hindi365.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +129,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2B26ABC01F20F1500020A64E /* Build configuration list for PBXNativeTarget "Hindi365" */;
 			buildPhases = (
+				24DB5036E7F9EA0D7EA92062 /* [CP] Check Pods Manifest.lock */,
 				2B26ABAA1F20F1500020A64E /* Sources */,
 				2B26ABAB1F20F1500020A64E /* Frameworks */,
 				2B26ABAC1F20F1500020A64E /* Resources */,
+				34DC7233005F5A36B5C38198 /* [CP] Embed Pods Frameworks */,
+				0E6BD6BCE95A9E771795B0D6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,6 +157,7 @@
 				TargetAttributes = {
 					2B26ABAD1F20F1500020A64E = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 64Z3KRAPD7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -125,19 +187,73 @@
 			files = (
 				2B26ABBC1F20F1500020A64E /* LaunchScreen.storyboard in Resources */,
 				2B26ABB91F20F1500020A64E /* Assets.xcassets in Resources */,
+				2B5482FF1F3373BF0047A6C5 /* Hindi365.plist in Resources */,
+				2B5483021F33A2750047A6C5 /* Info.storyboard in Resources */,
 				2B26ABB71F20F1500020A64E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0E6BD6BCE95A9E771795B0D6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hindi365/Pods-Hindi365-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		24DB5036E7F9EA0D7EA92062 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		34DC7233005F5A36B5C38198 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Hindi365/Pods-Hindi365-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2B26ABAA1F20F1500020A64E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B26ABB41F20F1500020A64E /* ViewController.swift in Sources */,
+				2B6C84841F2A6473007209CE /* StarViewController.swift in Sources */,
+				2B590B8F1F2BA804009D1245 /* Card.swift in Sources */,
+				2B26ABB41F20F1500020A64E /* HomeViewController.swift in Sources */,
+				2B6C84821F2A53F3007209CE /* HelpViewController.swift in Sources */,
 				2B26ABB21F20F1500020A64E /* AppDelegate.swift in Sources */,
+				2B6C84861F2A651B007209CE /* StarCardViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,6 +274,14 @@
 				2B26ABBB1F20F1500020A64E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		2B5483001F33A2750047A6C5 /* Info.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2B5483011F33A2750047A6C5 /* Base */,
+			);
+			name = Info.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -258,8 +382,10 @@
 		};
 		2B26ABC11F20F1500020A64E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4F7C9AC46DD2A8A71EDA454 /* Pods-Hindi365.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 64Z3KRAPD7;
 				INFOPLIST_FILE = Hindi365/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanyaravi.Hindi365;
@@ -270,8 +396,10 @@
 		};
 		2B26ABC21F20F1500020A64E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F5156CCB0583CEB7EB127523 /* Pods-Hindi365.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 64Z3KRAPD7;
 				INFOPLIST_FILE = Hindi365/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tanyaravi.Hindi365;
@@ -299,6 +427,7 @@
 				2B26ABC21F20F1500020A64E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

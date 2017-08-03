@@ -1,0 +1,506 @@
+[
+  {
+    "Category": "Food",
+    "Hindi Word": "aam",
+    "Pronunciation": "ā-m",
+    "English Translation": "mango"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "aloo",
+    "Pronunciation": "ā-lū",
+    "English Translation": "potato"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "bhindi",
+    "Pronunciation": "bin-dhē",
+    "English Translation": "okra"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "chana",
+    "Pronunciation": "chan-ā",
+    "English Translation": "chickpeas"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "chawal",
+    "Pronunciation": "cha-vul",
+    "English Translation": "rice"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "dahi",
+    "Pronunciation": "da-hē",
+    "English Translation": "yogurt"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "gobi",
+    "Pronunciation": "go-bē",
+    "English Translation": "cauliflower"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "kela",
+    "Pronunciation": "kē-la",
+    "English Translation": "banana"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "kheera",
+    "Pronunciation": "kē-ra",
+    "English Translation": "cucumber"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "nimbu",
+    "Pronunciation": "nim-bū",
+    "English Translation": "lemon"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "palak",
+    "Pronunciation": "pa-luck",
+    "English Translation": "spinach"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "sev",
+    "Pronunciation": "sev",
+    "English Translation": "apple"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "tamatar",
+    "Pronunciation": "tam-ā-tar",
+    "English Translation": "tomato"
+  },
+  {
+    "Category": "Food",
+    "Hindi Word": "roti",
+    "Pronunciation": "ro-ti",
+    "English Translation": "bread"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "kaala",
+    "Pronunciation": "kā-la",
+    "English Translation": "black"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "safed",
+    "Pronunciation": "saf-aid",
+    "English Translation": "white"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "neela",
+    "Pronunciation": "nē-la",
+    "English Translation": "blue"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "haraa",
+    "Pronunciation": "har-ā",
+    "English Translation": "green"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "laal",
+    "Pronunciation": "lāl",
+    "English Translation": "red"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "peela",
+    "Pronunciation": "pē-la",
+    "English Translation": "yellow"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "gulaabee",
+    "Pronunciation": "gulā-bē",
+    "English Translation": "pink"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "naaramgee",
+    "Pronunciation": "nā-rum-gē",
+    "English Translation": "orange"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "bhooraa",
+    "Pronunciation": "bō-rā",
+    "English Translation": "brown"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "chaandi",
+    "Pronunciation": "chān-dē",
+    "English Translation": "silver"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "halaka",
+    "Pronunciation": "ha- la-kā",
+    "English Translation": "light"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "gahara",
+    "Pronunciation": "gar-ā",
+    "English Translation": "dark"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "rangin",
+    "Pronunciation": "rung-īn",
+    "English Translation": "colorful"
+  },
+  {
+    "Category": "Color",
+    "Hindi Word": "berang",
+    "Pronunciation": "bē-rung",
+    "English Translation": "colorless"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "duppata",
+    "Pronunciation": "du-pa-tā",
+    "English Translation": "scarf"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "kameez",
+    "Pronunciation": "ka-mīz",
+    "English Translation": "shirt"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "jute",
+    "Pronunciation": "jūt-ay",
+    "English Translation": "shoes"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "pyjama",
+    "Pronunciation": "pȳ-jā-mā",
+    "English Translation": "pants"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "kaccha",
+    "Pronunciation": "kach-ā",
+    "English Translation": "shorts"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "pehnna",
+    "Pronunciation": "pey-nā",
+    "English Translation": "wear"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "topi",
+    "Pronunciation": "top-ē",
+    "English Translation": "hat"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "banyaan",
+    "Pronunciation": "ban-yān",
+    "English Translation": "vest"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "utaarna",
+    "Pronunciation": "ū-tar-nā",
+    "English Translation": "remove"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "kapada",
+    "Pronunciation": "kap-a-dā",
+    "English Translation": "clothes"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "dastaana",
+    "Pronunciation": "das-tā-nā",
+    "English Translation": "gloves"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "chappal",
+    "Pronunciation": "chap-pāl",
+    "English Translation": "slipper"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "paushaak",
+    "Pronunciation": "paw-shāk",
+    "English Translation": "dress"
+  },
+  {
+    "Category": "Clothing",
+    "Hindi Word": "maunje",
+    "Pronunciation": "māw-je",
+    "English Translation": "socks"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "mata",
+    "Pronunciation": "mā-ta",
+    "English Translation": "mother"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "pita",
+    "Pronunciation": "pī-ta",
+    "English Translation": "father"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "beta",
+    "Pronunciation": "be-tā",
+    "English Translation": "son"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "beti",
+    "Pronunciation": "be-tī",
+    "English Translation": "daughter"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "nani",
+    "Pronunciation": "nā-nī",
+    "English Translation": "maternal grandmother"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "dadi",
+    "Pronunciation": "dā-dī",
+    "English Translation": "paternal grandmother"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "nana",
+    "Pronunciation": "nā-na",
+    "English Translation": "maternal grandfather"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "dada",
+    "Pronunciation": "dā-da",
+    "English Translation": "paternal grandfather"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "bhaiya",
+    "Pronunciation": "bai-yā",
+    "English Translation": "older brother"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "chhota bhai",
+    "Pronunciation": "cho-tā bai",
+    "English Translation": "younger brother"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "mama",
+    "Pronunciation": "ma-mā",
+    "English Translation": "uncle"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "mami",
+    "Pronunciation": "ma-mī",
+    "English Translation": "aunt"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "badi bahan",
+    "Pronunciation": "bad-ī bane",
+    "English Translation": "elder sister"
+  },
+  {
+    "Category": "Family",
+    "Hindi Word": "chhoti bahan",
+    "Pronunciation": "cho-tī bane",
+    "English Translation": "younger sister"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "ghar",
+    "Pronunciation": "gar",
+    "English Translation": "house"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "darwaja",
+    "Pronunciation": "dar-wa-jā",
+    "English Translation": "door"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "kurasee",
+    "Pronunciation": "kōr-sī",
+    "English Translation": "chair"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "fon",
+    "Pronunciation": "fon",
+    "English Translation": "phone"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "taalika",
+    "Pronunciation": "tā-lik-ā",
+    "English Translation": "table"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "rasoee",
+    "Pronunciation": "rus-wī",
+    "English Translation": "kitchen"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "bageecha",
+    "Pronunciation": "ba-gī-chā",
+    "English Translation": "garden"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "sofa",
+    "Pronunciation": "sofā",
+    "English Translation": "couch"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "chaambiyaan",
+    "Pronunciation": "chām-bī-yā",
+    "English Translation": "keys"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "gaadee",
+    "Pronunciation": "gā-dē",
+    "English Translation": "car"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "jharu",
+    "Pronunciation": "jā-rū",
+    "English Translation": "broom"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "ghadee",
+    "Pronunciation": "gha-dē",
+    "English Translation": "clock"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "bistar",
+    "Pronunciation": "bis-tār",
+    "English Translation": "bed"
+  },
+  {
+    "Category": "Home",
+    "Hindi Word": "rassi",
+    "Pronunciation": "rus-ī",
+    "English Translation": "rope"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "suraj",
+    "Pronunciation": "sū-rāj",
+    "English Translation": "sun"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "chand",
+    "Pronunciation": "chund",
+    "English Translation": "moon"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "aasman",
+    "Pronunciation": "āsmān",
+    "English Translation": "sky"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "taaraa",
+    "Pronunciation": "tārā",
+    "English Translation": "star"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "baris",
+    "Pronunciation": "bārish",
+    "English Translation": "rain"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "pani",
+    "Pronunciation": "pānī",
+    "English Translation": "water"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "river"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "cloud"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "rainbow"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "fire"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "smoke"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "gold"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "dust"
+  },
+  {
+    "Category": "Nature",
+    "Hindi Word": "",
+    "Pronunciation": "",
+    "English Translation": "mud"
+  }
+]
